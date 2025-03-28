@@ -15,7 +15,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,php,bash)  
 
 #### **🚀 Backend Technologies**  
-![Backend](https://skillicons.dev/icons?i=node,deno,spring,laravel)  
+![Backend](https://skillicons.dev/icons?i=nodejs,deno,spring,laravel)  
 
 #### **🎨 Frontend Technologies**  
 ![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind)  
@@ -24,7 +24,7 @@
 ![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,terraform)  
 
 #### **🗄️ Databases & Message Brokers**  
-![Databases](https://skillicons.dev/icons?i=mongo,postgres,db2,oracle,mysql,redis,rabbitmq)  
+![Databases](https://skillicons.dev/icons?i=mongo,postgres,mysql,redis,rabbitmq)  
 
 #### **🔧 Tools, Testing & Version Control**  
 ![Tools](https://skillicons.dev/icons?i=git,jest)
