@@ -5,10 +5,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssssshel&show_icons=true&theme=holi)
 
 ## 🚀 About Me  
-- 🔹 Passionate about software architecture and best development practices.  
-- 🔹 Experience in backend and frontend with **Node.js, TypeScript, AWS, React, NestJS, and more**.  
-- 🔹 Interested in **clean architecture, design patterns, and serverless development**.  
-- 🔹 Always learning and exploring new technologies.  
+- Passionate about software architecture and best development practices.  
+- Experience in backend and frontend with **Node.js, TypeScript, AWS, React, NestJS, and more**.  
+- Interested in **clean architecture, design patterns, and serverless development**.  
+- Always learning and exploring new technologies.  
 
 ## 🛠️ Technologies & Tools
 #### **📌 Programming Languages**  
