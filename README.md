@@ -1,17 +1,37 @@
-#### Create innovative solutions and never stop learning. This is my mantra.
+# 👋 Hi! I'm Ángel  
 
+💻 **Full Stack Developer** passionate about building efficient, scalable, and well-designed software. I specialize in modern technologies for web development and cloud computing.  
 
-<!--
-**ssssshel/ssssshel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssssshel&show_icons=true&theme=holi)
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔹 Passionate about software architecture and best development practices.  
+- 🔹 Experience in backend and frontend with **Node.js, TypeScript, AWS, React, NestJS, and more**.  
+- 🔹 Interested in **clean architecture, design patterns, and serverless development**.  
+- 🔹 Always learning and exploring new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+#### **📌 Programming Languages**  
+![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,php,bash)  
+
+#### **🚀 Backend Technologies**  
+![Backend](https://skillicons.dev/icons?i=node,deno,spring,laravel)  
+
+#### **🎨 Frontend Technologies**  
+![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind)  
+
+#### **☁️ Cloud & DevOps**  
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,terraform)  
+
+#### **🗄️ Databases & Message Brokers**  
+![Databases](https://skillicons.dev/icons?i=mongo,postgres,db2,oracle,mysql,redis,rabbitmq)  
+
+#### **🔧 Tools, Testing & Version Control**  
+![Tools](https://skillicons.dev/icons?i=git,jest)
+
+## 📫 Contact  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/angelart179)  
+- 📧 angelarteaga17_@outlook.com 
+- 🚀 [Portfolio](In Progress)
+
+I’d love to connect and collaborate on exciting projects! 🚀  
