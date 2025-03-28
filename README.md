@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer** passionate about building efficient, scalable, and well-designed software. I specialize in modern technologies for web development and cloud computing.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssssshel&show_icons=true&theme=holi)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssssshel&show_icons=true&theme=holi)-->
 
 ## 🚀 About Me  
 - Passionate about software architecture and best development practices.  
