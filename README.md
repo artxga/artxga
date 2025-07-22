@@ -32,6 +32,6 @@
 ## 📫 Contact  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/angelart179)  
 - 📧 angelarteaga17_@outlook.com 
-- 🚀 [Portfolio](https://ssssshel.vercel.app/)
+- 🚀 [Portfolio](https://angel-arteaga.vercel.app/)
 
 I’d love to connect and collaborate on exciting projects! 🚀  
