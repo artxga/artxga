@@ -15,7 +15,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,php,bash)  
 
 #### **🚀 Backend Technologies**  
-![Backend](https://skillicons.dev/icons?i=nodejs,deno,spring,laravel)  
+![Backend](https://skillicons.dev/icons?i=nodejs,spring,laravel)  
 
 #### **🎨 Frontend Technologies**  
 ![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind)  
