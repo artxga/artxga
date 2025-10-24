@@ -15,10 +15,10 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,php,bash)  
 
 #### **🚀 Backend Technologies**  
-![Backend](https://skillicons.dev/icons?i=nodejs,spring,laravel)  
+![Backend](https://skillicons.dev/icons?i=nodejs,laravel)  
 
 #### **🎨 Frontend Technologies**  
-![Frontend](https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind)  
+![Frontend](https://skillicons.dev/icons?i=react,angular,html,css,tailwind)  
 
 #### **☁️ Cloud & DevOps**  
 ![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,terraform)  
