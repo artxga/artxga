@@ -12,10 +12,10 @@
 
 ## 🛠️ Technologies & Tools
 #### **📌 Programming Languages**  
-![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,php,bash)  
+![Languages](https://skillicons.dev/icons?i=js,ts,python,bash)  
 
 #### **🚀 Backend Technologies**  
-![Backend](https://skillicons.dev/icons?i=nodejs,laravel)  
+![Backend](https://skillicons.dev/icons?i=nodejs,go)  
 
 #### **🎨 Frontend Technologies**  
 ![Frontend](https://skillicons.dev/icons?i=react,angular,html,css,tailwind)  
