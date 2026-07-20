@@ -11,7 +11,7 @@ Senior Frontend Developer & Full Stack Engineer passionate about building effici
 ## 🛠️ Technologies & Tools
 
 #### **📌 Programming Languages**  
-![Languages](https://skillicons.dev/icons?i=ts,js,go,java)  
+![Languages](https://skillicons.dev/icons?i=ts,js,go,python,java)  
 
 #### **🚀 Backend Technologies**  
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring)  
